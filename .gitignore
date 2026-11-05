@@ -1,0 +1,19 @@
+# Java / Maven
+target/
+*.class
+
+# Node
+node_modules/
+
+# Configurações pessoais
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+
+# Sistema
+Thumbs.db
+.DS_Store
